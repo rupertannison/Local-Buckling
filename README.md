@@ -7,7 +7,7 @@ To use this code to find the local buckling failure load of a section:
 3. Run Main.py and the failure force will be printed to the terminal. Pyplotters will also produce graphs of the failure deflection profile
 
 There are many functions that can be called from Main.py, change the functions being called by toggling the True/False in the if statments
-Once the L corresponding to the minimum local buckling failure load has been founund, update the section definition in Section_data.py and toggle the True/False if statment so that the L is not solved for each time you re-run the code
+Once the L corresponding to the minimum local buckling failure load has been found, update the section definition in Section_data.py and toggle the True/False if statment so that the L is not solved each time you re-run the code
 
 You will need to install the numpy, pyplot, and scipy packages to run the code
 
