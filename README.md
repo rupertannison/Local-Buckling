@@ -12,4 +12,5 @@ Once the L corresponding to the minimum local buckling failure load has been fou
 You will need to install the numpy, pyplot, and scipy packages to run the code
 
 This code only solves failure force in the pure local buckling mode, it does not account for any interactions with distortional or global buckling
+
 Any questions email rupert.annison@gmail.com
