@@ -1,5 +1,5 @@
 # Local-Buckling
-Python code to accompany the analytical design approach to local buckling of thin-walled cross-sections by Rupert Annison and Jurgen Becque
+Python code to accompany 'A mechanics-based design approach to local buckling of thin-walled cross-sections' by Rupert Annison and Jurgen Becque
 
 To use this code to find the local buckling failure load of a section:
 1. Define section geometry in Section_data.py by copying an example section definition function
